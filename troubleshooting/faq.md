@@ -14,7 +14,3 @@ If you're new to Go and don't know where to start, no problem at all! Here are s
 
 If you're not a software developer but you've got ideas on how to make the end user experience better, we absolutely welcome that feedback as well. Don't hesitate to reach out and open a Github issue!
 
-## Have you had a chance to answer the previous question?
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-

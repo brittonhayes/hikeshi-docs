@@ -1,12 +1,14 @@
 ---
-description: We're glad you're here and hope you enjoy your stay.
+description: >-
+  Hikeshi is a security incident response application that keeps it simple to
+  document security incidents , so you can focus on fighting fires.
 ---
 
-# Welcome
+# Welcome to Hikeshi
 
 ## Introduction
 
-Hikeshi is a security incident response application that keeps it simple to document security incidents , so you can focus on fighting fires.
+We're happy to see you're interested in trying out Hikeshi and hope you enjoy your stay. If you've got any questions, feel free to look at our FAQ or if you find an issue, open a Github Issue.
 
 ### Why the name "Hikeshi"?
 
@@ -19,12 +21,12 @@ The primary hope for this application is to create a tool that doesn't get in th
 ### **TLDR**
 
 * No-cluttered UI.
-* No noisey in-app notifications.
-* Web Hooks encourage you to integrate with slack.
+* No noisy in-app notifications.
+* Web Hooks allow you to notify in slack.
 * Dark mode support by default.
 * Designed specifically for incident response.
 
 It isn't feature packed, but it does exactly what it needs to while you take care of the incidents at hand.
 
-
+{% embed url="https://github.com/brittonhayes/hikeshi" %}
 
