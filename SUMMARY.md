@@ -4,7 +4,6 @@
 
 ## Introduction
 
-* [Welcome](introduction/welcome.md)
 * [Installation](introduction/installation.md)
 
 ## Usage
