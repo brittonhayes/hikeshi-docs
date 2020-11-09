@@ -28,5 +28,11 @@ The primary hope for this application is to create a tool that doesn't get in th
 
 It isn't feature packed, but it does exactly what it needs to while you take care of the incidents at hand.
 
-{% embed url="https://github.com/brittonhayes/hikeshi" %}
+## Github & GoDoc
+
+{% embed url="https://github.com/brittonhayes/hikeshi" caption="View the source on Github" %}
+
+{% embed url="https://pkg.go.dev/github.com/brittonhayes/hikeshi?tab=overview" caption="View package docs on pkg.go.dev" %}
+
+
 
