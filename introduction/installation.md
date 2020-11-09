@@ -41,15 +41,17 @@ brew install postgres
 {% endtab %}
 
 {% tab title="Linux" %}
-```
+```text
 sudo apt-get install postgresql
 ```
 {% endtab %}
 
 {% tab title="Docker" %}
-```
+```text
 docker pull postgres
 ```
 {% endtab %}
 {% endtabs %}
+
+
 
