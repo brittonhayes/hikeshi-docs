@@ -1,9 +1,11 @@
 # Table of contents
 
-* [Welcome to Hikeshi](README.md)
+* [Welcome](README.md)
+* [FAQ](faq.md)
 
 ## Introduction
 
+* [Welcome to Hikeshi](introduction/welcome.md)
 * [Installation](introduction/installation.md)
 
 ## Usage
@@ -13,8 +15,4 @@
 ## Development
 
 * [Setup](development/setup.md)
-
-## Troubleshooting
-
-* [FAQ](troubleshooting/faq.md)
 
