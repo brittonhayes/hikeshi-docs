@@ -8,7 +8,8 @@
 
 ## Usage
 
-* [Getting Started](usage/getting-started.md)
+* [Getting Started](usage/getting-started/README.md)
+  * [New Incident](usage/getting-started/new-incident.md)
 
 ## Development
 

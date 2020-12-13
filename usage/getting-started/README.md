@@ -13,12 +13,11 @@ description: How to run Hikeshi for the first time.
 {% tabs %}
 {% tab title="Docker" %}
 ```text
-docker run --name db -e \
-POSTGRES_USER=hikeshi \
-POSTGRES_DATABASE=hikeshi_development \
-POSTGRES_PASSWORD=postgres \
---ports 1234:5432
--d postgres
+docker run -p 1234:5432 \
+-e POSTGRES_DB=hikeshi_development \
+-e POSTGRES_USER=hikeshi \
+-e POSTGRES_PASSWORD=postgres \
+-d postgres:alpine
 ```
 {% endtab %}
 {% endtabs %}
